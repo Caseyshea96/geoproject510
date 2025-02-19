@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="geoproject510",
-    version="0.0.6",
+    version="0.0.14",
     description="A package for Geog 510",
     author="Casey Shea",
     author_email="shea96@gmail.com",
